@@ -1,14 +1,14 @@
-# PixPot 3d Website (React + TypeScript + Vite)
+# 3d Website (React + TypeScript + Vite)
 
 Setting up and Running the Project
 ----------------------------------
 Clone the repository:
 
-```git clone https://github.com/ManabuAzai/pp3d.git```
+```https://github.com/ManabuAzai/pointcloud.git```
 
 Navigate to the cloned directory:
 
-```cd pp3d```
+```cd pointcloud```
 
 Install the required dependencies:
 
@@ -20,5 +20,3 @@ Run the development server:
 
 Upon successfully executing these steps, a local server should start, typically at port 5173. You should then be able to view the point cloud visualization in your browser.
 
-# pointcloud
-# pointcloud
